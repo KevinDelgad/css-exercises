@@ -1,0 +1,21 @@
+/* style.css */
+
+.Odd{
+    background-color: lightcoral;
+    font-family: 'Verdana','DejaVu Sans', sans-serif;
+}
+
+#NumTwo{
+    color: blue;
+    font-size: 36px;
+}
+
+.NumThree{
+    font-size: 24px;
+}
+
+#NumFour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
